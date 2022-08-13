@@ -24,6 +24,7 @@ Notes:
 
 ### References
 
+- [Google Product XML file example](https://support.google.com/merchants/answer/160589?hl=en)
 - [Google Product Data specification](https://support.google.com/merchants/answer/7052112#zippy=,quick-reference)
 - [RSS specification](https://validator.w3.org/feed/docs/rss2.html#:~:text=RSS%20is%20a%20Web%20content,Web%20Consortium%20(W3C)%20website.
 )
