@@ -31,3 +31,19 @@ Notes:
 - [Google Product Feed article on Bluewinston](https://www.bluewinston.com/what-is-google-shopping-product-feed-specification-and-how-can-it-benefit-you/
 )
 - [Online SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
+
+## Task 2 - Cypress
+
+### How to run
+
+1. Run `npm install` to get all packages.
+2. Run `npx cypress run` to launch tests in the command line OR run `npx cypress open` to launch Cypress app and browser for interactive environment.
+3. Check screenshot `*.png` with test output results.
+
+### Explanations
+
+I have never used Cypress, so it was interesting experience.
+Not much to say. I have followed tutorials, docs and Google to complete the task.
+
+Notes:
+- the website is a bit different from what is stated in the task, so some adjustments were need.
