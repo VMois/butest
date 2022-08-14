@@ -46,4 +46,4 @@ I have never used Cypress, so it was interesting experience.
 Not much to say. I have followed tutorials, docs and Google to complete the task.
 
 Notes:
-- the website is a bit different from what is stated in the task, so some adjustments were need.
+- the website is a bit different from what is stated in the task, so some adjustments were needed.
